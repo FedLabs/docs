@@ -1,2 +1,2 @@
-# docs
-Fedler official documentation for the community.
+# Welcome
+This directly will contain all official public documents for Fedler community.
